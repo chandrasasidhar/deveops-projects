@@ -1,0 +1,7 @@
+
+# add names of files, dir that you dot want git to track
+
+file.txt
+*.txt
+*.log
+
